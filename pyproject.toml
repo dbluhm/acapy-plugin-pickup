@@ -17,7 +17,7 @@ pre-commit = "^3.7.0"
 black = "^24.4.2"
 flake8 = "^6.0.0"
 pytest = "^8.2.0"
-pytest-asyncio = "^0.23.6"
+pytest-asyncio = "^0.23.8"
 
 [build-system]
 requires = ["setuptools", "poetry-core>=1.1.5"]
