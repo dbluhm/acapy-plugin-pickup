@@ -13,7 +13,7 @@ typing-extensions = "<4.6.0"
 python-dateutil = "^2.8.1"
 
 [tool.poetry.dev-dependencies]
-pre-commit = "^3.7.0"
+pre-commit = "^3.8.0"
 black = "^24.4.2"
 flake8 = "^6.0.0"
 pytest = "^8.2.0"
